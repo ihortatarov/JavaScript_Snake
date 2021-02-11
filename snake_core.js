@@ -376,3 +376,5 @@ function drawRotatedImage(image, x, y, angle)
 	// and restore the co-ords to how they were when we began
 	context.restore(); 
 }
+
+master change
